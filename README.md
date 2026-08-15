@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello I am Shawkat 👋
+
+## Thanks for stopping by. Here's little bit about myself...
+
+- 🦉 I'm currently learning
+  - Exlpolring modern data stack (Databricks, Airflow)
+  - Google Cloud Platform
+  - How to architect better data system
 
 <!--
 **pialms/pialms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
